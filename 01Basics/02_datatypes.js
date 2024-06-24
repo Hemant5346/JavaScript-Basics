@@ -5,7 +5,7 @@
 
 console.log(3+3); 
 
-console.log('Hitesh')
+console.log('hemant')
 
 let name ="hemant"
 let age =12
