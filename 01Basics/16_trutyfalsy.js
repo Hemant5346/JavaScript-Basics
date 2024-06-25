@@ -3,8 +3,7 @@ const username=[]
 if (username){
     console.log("got user name")
 }else{
-    console.log('dont habve user email')
-
+    console.log('dont have user email')
 }
 
 // falsy values 
