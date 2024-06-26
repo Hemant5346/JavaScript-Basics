@@ -10,6 +10,8 @@
 })();
 //here this semicolon is important because after this function will be invoked only if this semicolon is there
 
+
+
 ((name)=>{
     console.log(`Db connected two ${name}`)
 })('hemant')
