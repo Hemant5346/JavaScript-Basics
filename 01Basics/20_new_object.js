@@ -25,6 +25,6 @@ for (const key in programming) {
     console.log(programming[key]);
 }
 
-/// so for array forof loop is used and for object forin. loop is used
+/// so for array forof loop is used and for object forin. loop is used ha
 
 //for map nothing isn used forin forof 

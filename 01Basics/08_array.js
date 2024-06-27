@@ -59,7 +59,7 @@ console.log(Array.from("hemant"))//from will convert string to array
 
 console.log(Array.from({name:"hemant"}))
 
-const score1=100
+const score1=[100,400]
 const score2=200
 const score3=500
 
